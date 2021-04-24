@@ -98,7 +98,7 @@ nav a:hover {
   display: none;
 }
 
-.nav-btn {
+#nav__btn {
   width: 3rem;
   height: 3rem;
   padding: 0;
@@ -111,7 +111,7 @@ nav a:hover {
   cursor: pointer;
 }
 
-.nav-btn:focus {
+#nav__btn:focus {
   outline: none;
 }
 
